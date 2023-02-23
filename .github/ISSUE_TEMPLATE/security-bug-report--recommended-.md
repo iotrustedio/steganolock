@@ -7,26 +7,26 @@ assignees: ''
 
 ---
 
-*Short summary*
+**Short summary**
 Vulnerability type / What / When / How
 
-*Description*
+**Description**
 Details of the security bug.
 
-*Reproduction*
+**Reproduction**
 1.
 2.
 3.
 ...
 
-*Attack Vector/Payload* (if used in reproduction and if applicable)
+**Attack Vector/Payload* (if used in reproduction and if applicable)*
 
-*Exploit-ability*
+**Exploit-ability**
 - Details about attack cases and conditions. How easy it might be exploited.
 
-*Criticality Assessment*
+**Criticality Assessment**
 - How severe the bug is? What impacts?
 
-*Suggested Fixes/Solutions*
+**Suggested Fixes/Solutions**
 
-*Other information*
+**Other information**
