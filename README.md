@@ -1,2 +1,2 @@
 # steganolock
-SteganoLock™ privacy app - Public Issues Management and Discussions
+SteganoLock™ privacy app - Public Bug Tracking System and Community Discussions
