@@ -1,6 +1,6 @@
 ---
-name: Security bug report (recommended)
-about: Report a bug related to security vulnerability
+name: Security bug report
+about: "[Recommended] Report a bug related to security vulnerability"
 title: "[BUG][Security] *Replace this by the title of the security bug*"
 labels: bug, security
 assignees: ''

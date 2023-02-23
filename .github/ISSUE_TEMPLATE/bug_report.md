@@ -22,11 +22,10 @@ Steps to reproduce the behavior:
 4. See error
 
 **What happened?**
-
-**Error/Log** (if available)
-Error: [paste here] or,
+Describe what happened after the final step above: did the application crash? what error? or something unexpected?
+- Error / Log: 
 ```
-[Paste the debugging log (if available) here]
+[Error message] Or [The debugging log (if available)]
 ```
 
 **Expected behavior**
