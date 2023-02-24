@@ -26,7 +26,7 @@ Describe what happened after the final step above: did the application crash? wh
 
 *Log (if available)*
 ```
-Error messing or debugging log ... (paste here)
+Error message (if seen) or debugging log ... (paste here)
 ```
 
 **Expected behavior**
